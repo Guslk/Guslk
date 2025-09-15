@@ -1,4 +1,6 @@
 
+Olá! 
+
 ![Guslk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guslk&show_icons=true&theme=radical)
 
 
